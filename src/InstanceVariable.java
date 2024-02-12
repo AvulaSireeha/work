@@ -5,5 +5,6 @@ public class InstanceVariable {
         this.variableName = variableName;
     }
 
+System.out.println("Instance");
     System.out.println("VAriable");
 }
