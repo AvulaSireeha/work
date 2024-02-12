@@ -5,5 +5,5 @@ public class FunctionVariable {
         this.variableName = variableName;
     }
     System.out.println("Hi");
-
+System.out.println("Hello");
 }
